@@ -1,0 +1,188 @@
+1652354911611	geckodriver	INFO	Listening on 127.0.0.1:6890
+1652354914683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6891" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileDYs5to"
+1652354915743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileDYs5to\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6891/devtools/browser/1ffbd351-08f4-4e9a-b24d-c0024a5f8dd0
+1652354920597	Marionette	INFO	Listening on port 6896
+1652354921105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652354948314	Marionette	INFO	Stopped listening on port 6896
+1652363957192	geckodriver	INFO	Listening on 127.0.0.1:2245
+1652363960250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2246" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileeEbCXE"
+1652363961340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileeEbCXE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2246/devtools/browser/5f23ba59-e532-4b09-abf1-83c65558d065
+1652363965719	Marionette	INFO	Listening on port 2689
+1652363965793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652364032486	Marionette	INFO	Stopped listening on port 2689
+1652364280887	geckodriver	INFO	Listening on 127.0.0.1:13135
+1652364283914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13136" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileVH4ppi"
+1652364284597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileVH4ppi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13136/devtools/browser/b8b1533b-5ed1-4f47-8925-a55f55ddfc64
+1652364289799	Marionette	INFO	Listening on port 13569
+1652364290118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652364308790	Marionette	INFO	Stopped listening on port 13569
+JavaScript error: , line 0: uncaught exception: Object
+1652364761955	geckodriver	INFO	Listening on 127.0.0.1:13027
+1652364765004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "13028" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilekluV3n"
+1652364765820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilekluV3n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:13028/devtools/browser/c67843b9-4ac4-4b7e-9422-b8644d1bbd33
+1652364770813	Marionette	INFO	Listening on port 13435
+1652364771026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652364794811	Marionette	INFO	Stopped listening on port 13435
+1652365003188	geckodriver	INFO	Listening on 127.0.0.1:2858
+1652365006234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2859" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileiSG9Mg"
+1652365007174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileiSG9Mg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2859/devtools/browser/670d85a2-1d6f-46e0-9e90-2953ae86187e
+1652365011821	Marionette	INFO	Listening on port 3294
+1652365012043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652365100853	Marionette	INFO	Stopped listening on port 3294
+1652365252974	geckodriver	INFO	Listening on 127.0.0.1:2790
+1652365255990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2791" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileW3RUCt"
+1652365256888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileW3RUCt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2791/devtools/browser/ff261e54-a34f-4a05-ae62-a67854623a35
+1652365262239	Marionette	INFO	Listening on port 3212
+1652365262321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652365283433	Marionette	INFO	Stopped listening on port 3212
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652365361046	geckodriver	INFO	Listening on 127.0.0.1:1084
+1652365364090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1085" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilecSdrLR"
+1652365364817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilecSdrLR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1085/devtools/browser/92f46206-3841-479a-b839-9fa9b3ff6489
+1652365368929	Marionette	INFO	Listening on port 1512
+1652365369384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652365391601	Marionette	INFO	Stopped listening on port 1512
+1652365569995	geckodriver	INFO	Listening on 127.0.0.1:10746
+1652365573022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10748" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileh86gG1"
+1652365573712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileh86gG1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10748/devtools/browser/80a786c2-50ea-4dd8-8d0a-cf9b05d2ede6
+1652365577652	Marionette	INFO	Listening on port 11084
+1652365577833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652365589866	Marionette	INFO	Stopped listening on port 11084
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652365963132	geckodriver	INFO	Listening on 127.0.0.1:14503
+1652365966165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14504" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilepeW9GN"
+1652365966838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilepeW9GN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14504/devtools/browser/59ba1939-83d5-4b6d-98b6-d0209e79e0dc
+1652365972010	geckodriver	INFO	Listening on 127.0.0.1:116521652365974489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla FiJavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652366010532	Marionette	INFO	Stopped listening on port 14885
+ings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileYo595d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1422/devtools/browser/f009ef0a-dc2a-49f9-9d93-335f555aedaf
+1652365981353	Marionette	INFO	Listening on port 1704
+1652365981758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652366001869	Marionette	INFO	Stopped listening on port 1704
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+3986" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilerFuYlR"
+1652366002609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilerFuYlR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3986/devtools/browser/d2683478-ff0c-43d0-9495-a9c41afb0a39
+1652366008385	Marionette	INFO	Listening on port 4201
+1652366008467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652366054976	Marionette	INFO	Stopped listening on port 4201
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) C1652366098320	Marionette	INFO	Stopped listening on port 5539
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgJavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652366078630	Marionette	INFO	Stopped listening on port 6456
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1652366254763	geckodriver	INFO	Listening on 127.0.0.1:3546
+1652366257797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3547" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilehJ4WOV"
+1652366258450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofilehJ4WOV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3547/devtools/browser/39102630-18e5-4576-b097-18592ba7c57e
+1652366262476	Marionette	INFO	Listening on port 3970
+1652366262588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652366279557	Marionette	INFO	Stopped listening on port 3970
+1652366318191	geckodriver	INFO	Listening on 127.0.0.1:10490
+1652366321217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10492" "-no-remote" "-profile" "C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileevV9Gj"
+1652366321924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AHMEDN~1\\AppData\\Local\\Temp\\rust_mozprofileevV9Gj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10492/devtools/browser/57092200-043c-49a8-9ae4-72ca29fd26cd
+1652366326484	Marionette	INFO	Listening on port 10670
+1652366326781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kepler.captcha.qcloud.com/tencent-kepler.js?appId=9865970, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652366347999	Marionette	INFO	Stopped listening on port 10670
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
